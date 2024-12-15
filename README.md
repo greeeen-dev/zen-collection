@@ -1,7 +1,7 @@
 # Green's Zen Browser collection
 A list of fan projects I've made for (or related to) Zen Browser.
 
-## ~~[Natsumi Browser](https://github.com/greeeen-dev/natsumi-browser)~~ (coming soon)
+## [Natsumi Browser](https://github.com/greeeen-dev/natsumi-browser)
 A userchrome for Zen Browser that makes things **_\~flow\~_**.
 
 ![](https://github.com/user-attachments/assets/283d9e40-c564-4843-b819-cfa783838ccc)
