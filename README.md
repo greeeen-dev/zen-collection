@@ -4,7 +4,7 @@ A list of fan projects I've made for (or related to) Zen Browser.
 ## [Natsumi Browser](https://github.com/greeeen-dev/natsumi-browser)
 A userchrome for Zen Browser that makes things **_\~flow\~_**.
 
-![](https://github.com/user-attachments/assets/283d9e40-c564-4843-b819-cfa783838ccc)
+![](https://github.com/greeeen-dev/natsumi-browser/raw/main/images/natsumi-preview.png?raw=true)
 
 ## [Zen Classic](https://github.com/greeeen-dev/zen-classic-mod)
 Send your Zen Browser back to the 1.0.0-a days for a feeling of nostalgia. Tested on 1.0.1-a.22.
